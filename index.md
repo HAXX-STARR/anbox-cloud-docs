@@ -15,7 +15,7 @@ Due to its highly scalable nature and performance optimisation, delivering devic
 |  [Tutorials](/tutorial/landing.md)</br>  Get started - a hands-on introduction to Anbox Cloud for new users </br> |  [How-to guides](/howto/landing.md) </br> Step-by-step guides covering key operations and common tasks |
 |  [Explanation](/explanation/landing.md) </br> Concepts - discussion and clarification of key topics, architecture  | [Reference](/reference/landing.md) </br> Technical information - specifications, APIs |
 
-## Project and community
+## Contribute
 
 Anbox Cloud is a Canonical product. It originally grew out of the [Anbox open-source project](https://github.com/anbox), but its code base is now completely independent.
 
